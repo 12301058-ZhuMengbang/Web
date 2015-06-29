@@ -39,7 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EnterpriseChallengeIDAL.cs" />
     <Compile Include="EnterpriseInfoIDAL.cs" />
+    <Compile Include="InviteIDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QuizInfoIDAL.cs" />
     <Compile Include="SearchChallengeIDAL.cs" />
